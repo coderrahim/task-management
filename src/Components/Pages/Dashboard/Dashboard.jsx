@@ -1,10 +1,9 @@
+import TodoList from "./TodoList";
 
 
 const Dashboard = () => {
     return (
-        <div>
-            Dashboard
-        </div>
+        <TodoList></TodoList>
     );
 };
 
